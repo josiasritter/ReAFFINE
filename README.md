@@ -10,5 +10,5 @@ The directory “static_layers” contains the preprocessed layers including the
 
 To launch ReAFFINE:
 1. Install Python packages listed in requirements_reaffine.txt
-2. Define input and output paths in config.properties (including the input flash flood hazard data in levels low-medium-high; see the above publication)
+2. Define input and output paths in config.properties (including gridded input flash flood hazard data in levels low-medium-high; see the above publication)
 3. Run main program reaffine_v6.py
